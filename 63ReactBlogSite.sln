@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63ReactBlogSite.Web", "63ReactBlogSite.Web\63ReactBlogSite.Web.csproj", "{D6E5139C-6FBA-4AAB-B657-AE406B7F17CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63ReactBlogSite.Data", "63ReactBlogSite.Data\63ReactBlogSite.Data.csproj", "{107F08A7-79E9-463E-86BD-4F5823B07B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E5139C-6FBA-4AAB-B657-AE406B7F17CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E5139C-6FBA-4AAB-B657-AE406B7F17CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E5139C-6FBA-4AAB-B657-AE406B7F17CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E5139C-6FBA-4AAB-B657-AE406B7F17CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107F08A7-79E9-463E-86BD-4F5823B07B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107F08A7-79E9-463E-86BD-4F5823B07B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107F08A7-79E9-463E-86BD-4F5823B07B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107F08A7-79E9-463E-86BD-4F5823B07B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5D1A6D-AB6F-4BB7-9D3A-63E8A210707A}
+	EndGlobalSection
+EndGlobal
